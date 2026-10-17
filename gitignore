@@ -1,0 +1,8 @@
+# Datos: se descargan automáticamente al correr 01 y 02 (ver README)
+datos/
+
+# Archivos temporales de Jupyter y Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
